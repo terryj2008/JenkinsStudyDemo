@@ -15,6 +15,7 @@ public partial class code : System.Web.UI.Page
         }
         else
         {
+            //adadfasdf
             Response.Write(Request.Url.AbsoluteUri);
         }
     }
